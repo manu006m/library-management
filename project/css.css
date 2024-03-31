@@ -1,0 +1,25 @@
+.manu{
+    color: dodgerblue;
+}
+
+
+.hi
+{
+    color:red;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+body{
+    background-image: url(../image/wp8486044-teenage-mutant-ninja-turtles-2020-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 0cqmax;
+    height: 100vh;
+    /* background-position: 100px; */
+}
+.hai
+{
+    color: chocolate;
+}

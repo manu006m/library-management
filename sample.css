@@ -1,0 +1,22 @@
+.instagram
+{
+ color: blue;
+ text-align: center;
+ font-size: 100px;
+ 
+}
+.par{
+    font-size: 50px;
+    text-align: center;
+}
+.pass
+{
+    
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJllK9_yTRCTRGZEYIXNrtnFjoyBgGb6dOA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-attachment: scroll;
+    background-position: 20px;
+}
