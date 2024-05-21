@@ -1,0 +1,27 @@
+table
+{
+    color: blue;
+    width: 80%;
+    height:80%;
+    border: 2px solid red;
+    border-color: rgb(143, 201, 8);
+    padding: 20px;
+    margin: 100PX 200PX 500PX 80PX;
+   th {
+      text-align: center;
+      padding-left: 20px;
+    }
+    tr {
+        text-align: center;
+        padding-bottom: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        
+    
+    tr:hover{
+       color: #2bb019;
+       font-size: larger;
+    }
+}

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // let fruit=["apple","mango","peach"]
+        // document.write(fruit[0])
+        // document.write(fruit[1])
+        // document.write(fruit[2])
+
+
+
+        // let arr=new Array();
+        // arr[0]="arun"
+        // arr[1]="manu"
+        // arr[2]="rohin"
+        // // document.write(arr[2])
+
+
+        //         // var k= fruit[0].concat(arr[2])
+        //         // document.write(k)
+
+
+
+        //  var s=arr.indexOf("manu")
+        //  document.write(s)
+
+        // //  var h=arr.pop()
+        // //  document.write(h)
+
+
+        // var l=arr.push("butterfly")
+        // document.write(arr)
+
+        // var u=arr.reverse(arr[0])
+        // document.write(arr)
+
+
+
+        // for(i=0;i<fruit.length;i++)
+        // {
+        //     alert(fruit[i])
+        // }
+
+        // for(let   key in fruit)
+        // {
+        //     alert(fruit[key])
+        // }
+        // arr.sort()
+        // document.write(arr)
+
+
+        // var sum=0
+        // var num=[1,2,3,4,5,6,7,8,9]
+        // for(i=0;i<num.length;i++)
+        // {
+        //     if(num[i]%2==0)
+        //     {
+        //           sum=sum+num[i]
+        //           document.write(num[i])
+        //     }
+        // }
+
+        // document.write("sum=",sum)
+
+
+
+
+        let arr = [1, 1,1,2]
+
+            let count=0
+        for (var i = 0; i < arr.length; i++) 
+        {
+
+            for (var j = i+1; j < arr.length; j++) 
+            {
+                if (arr[i] == arr[j])
+                 {
+                    count++
+                    break;
+                }
+
+            }
+            
+        }
+
+        console.log(count);
+
+
+
+
+        // *Object
+
+
+        // emp={id:10,name:"manu",salary:10000}
+        // document.write(emp.id,"",emp.name,"",emp.salary)
+
+
+
+        // var exm=new Object();
+        // exm.id=100;
+        // exm.name="manu";
+        // exm.salary=20000;
+        // document.write(exm.id,"",exm.name,"",exm.salary)
+
+
+
+
+
+        // *constaractor
+
+
+//         function sample(id,name,salary)
+//         {
+// this.id=id
+// this.name=name
+// this.salary=salary
+//         }
+//         a=new sample(20,"manu",12000)
+
+//         document.write(a.id,"",a.name,"",a.salary)
+
+
+
+
+        // *delete from an object
+
+
+        // let a={
+        //     id:100,
+        //     name:"MANU",
+
+        //     salary:20000,
+
+        // }
+        // delete a.name
+        // document.write(a.name)
+
+
+
+
+        //* constarctor to create date objects
+
+
+
+    var date=new Date();
+        var day=date.getDate()
+     var month=date.getMonth()+1;
+     var year=date.getFullYear()
+     document.write("today<br/>",day,"<br/>",month,"<br/>",year)
+
+     let now=new Date()
+     alert(now)
+
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,310 @@
+* {
+
+    border: 0;
+    margin: 0;
+}
+
+.main {
+    background-color: rgb(246, 227, 227);
+    height: 300vh;
+    width: 100%;
+}
+
+.top {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(253, 250, 250);
+    display: flex;
+    position:sticky;
+    top: 0;
+    left: 0;
+}
+
+
+.top img {
+    height: 110px;
+    width: 180px;
+
+    margin-left: 50px;
+}
+
+.top input {
+    background-color: rgba(204, 228, 236, 0.621);
+    height: 40px;
+    width: 45%;
+    border-radius: 5px;
+    margin: 30px 0px 0px 50px;
+    background-image: url(https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-5.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 30px;
+    backface-visibility: inherit;
+}
+
+.top input::placeholder {
+    color: grey;
+    padding-left: 80px;
+    font-size: large;
+    word-spacing: 5px;
+}
+
+
+#login {
+    display: flex;
+    height: 40px;
+    width: 150px;
+    background-color: rgba(165, 42, 42, 0);
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#login:hover {
+    background-color: blue;
+
+
+
+}
+
+#login img {
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#login p {
+    margin-left: 12px;
+    margin-top: 10px;
+    font-size: larger;
+}
+
+#login select {
+    background-color: rgba(165, 42, 42, 0);
+    width: 20px;
+    font-size: x-large;
+    border: 1px solid rgba(205, 70, 70, 0.004);
+    margin-bottom: px;
+}
+
+.cart {
+    height: 50px;
+    width: 120px;
+    background-color: rgba(240, 189, 189, 0);
+    margin-top: 30px;
+    display: flex;
+    cursor: pointer;
+}
+
+.cart img {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.cart p {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: larger;
+}
+
+.seller {
+    height: 50px;
+    width: 200px;
+    background-color: rgba(240, 189, 189, 0.012);
+    margin-top: 30px;
+    display: flex;
+    cursor: pointer;
+}
+
+.seller img {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+
+}
+
+.seller p {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: larger;
+}
+
+.option {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEw0DE6F38pi_kdyseaRy7wD6gF1QWVWX8qIChOf1yQ&s);
+}
+
+.dots {
+    margin-top: 50px;
+}
+
+.dots select {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEw0DE6F38pi_kdyseaRy7wD6gF1QWVWX8qIChOf1yQ&s);
+
+}
+
+.second {
+    height: 7%;
+    width: 97%;
+    background-color: white;
+    margin: 10px 0px 0px 25px;
+    display: flex;
+    font-weight: bold;
+
+}
+
+.one {
+    margin: 30px 50px 50px 140px;
+
+}
+
+.one p {
+    margin: 8px 0px 0px 7px;
+}
+
+.two {
+
+    margin: 30px 20px 50px 10px;
+}
+
+.two p {
+    margin: 8px 0px 0px 7px;
+}
+
+.three {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.three p {
+    margin: 0px 0px 0px 25px;
+}
+
+.three img {
+    height: 100px;
+    width: 100px;
+}
+
+.four {
+    margin-top: 18px;
+    margin-left: 35px;
+}
+
+.four p {
+    margin: 3px 0px 0px 7px;
+}
+
+.four img {
+    height: 100px;
+    width: 100px;
+}
+
+.five {
+    margin-top: 18px;
+    margin-left: 40px;
+}
+
+.five p {
+    margin: 3px 0px 0px 7px;
+}
+
+.five img {
+    height: 100px;
+    width: 100px;
+}
+
+.six {
+    margin-top: 18px;
+    margin-left: 40px;
+
+}
+
+.six p {
+    margin: 3px 0px 0px 7px;
+}
+
+.six img {
+    height: 100px;
+    width: 100px;
+}
+
+.seven {
+    margin-top: 18px;
+    margin-left: 40px;
+}
+
+.seven p {
+    margin: 20px 0px 0px 20px;
+}
+
+.eight {
+    margin-top: 18px;
+    margin-left: 40px;
+}
+
+.eight img {
+    height: 100px;
+    width: 100px;
+}
+
+.nine {
+    margin-top: 18px;
+    margin-left: 40px;
+}
+
+.nine p {
+    margin: 8px 0px 0px 7px;
+}
+
+.nine img {
+    height: 90px;
+    width: 120px;
+}
+
+.third {
+
+    height: 10%;
+    width: 97%;
+    background-color: white;
+    margin: 10px 0px 0px 25px;
+}
+
+.third img {
+    width: 100%;
+}
+
+.forth {
+    height: 18%;
+    width: 97%;
+    background-color:rgb(246, 227, 227);
+    margin: 10px 0px 0px 25px;
+    display: flex;
+}
+
+.forth1 {
+    height: 85%;
+    width: 80%;
+    background-color: white;
+    margin-top: 40px;
+    
+    float: left;
+    display: flex;
+}
+
+.indigo
+{
+    height:90%;
+    width:18% ;
+    background-color: blue;
+    margin: 25px 0px 0px 20px;
+}
+.forth1 div
+{
+    height: 250px;
+    width: 200px;
+    background-color: beige;
+    margin:70px 20px 0px 10px;
+}

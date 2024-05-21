@@ -1,0 +1,27 @@
+h1
+{
+text-align: center;
+color: blue;
+}
+.first
+{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+h6
+{
+    margin-top: 20px;
+}
+#second
+{
+    margin-top:20px;
+}
+.third
+{
+    width: 50%;
+    margin-top: 20px;
+}
+button{
+position: absolute;
+left: 700px ;
+}

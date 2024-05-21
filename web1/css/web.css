@@ -1,0 +1,100 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.head{
+    background-color: white;
+    margin: 20px auto;
+    height: 80vh;
+    width: 28%;
+    padding: 30px 40px;
+    border-radius: 20px;
+border: 2px solid grey;
+
+}
+.logo{
+    margin: auto;
+    height: 95px;
+    width: 150px;
+
+}
+.logo img
+{
+    height: 70px;
+    width: 150px;
+}
+.title{
+    text-align: center;
+}
+.title h2{
+margin: 10px;
+
+}
+.title p
+{
+    margin: 10px;
+    font-size: large;
+    
+}
+text{
+    margin: auto ;
+    
+
+}
+.text input
+{
+    width:100%;
+    height:45px;
+
+}
+.text p{
+    color: blue;
+    margin:5px;
+    font-size:large;
+}
+.text label{
+    font-weight: 700;
+    color: blue;
+}
+.par{
+    margin: 20px auto;
+}.par p{
+    color: rgb(3, 3, 9);
+
+}
+.par a{
+    color: blue;
+    text-decoration: none;
+}
+.cre
+{
+    color: rgb(22, 22, 65);
+    font-size: large;
+    display: flex;
+}.cre button{
+    margin-left: 250px;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(97, 97, 222);
+    color: white;
+    border-radius: 10px;
+}
+.cre button:hover{
+    background-color: azure;
+    color: black;
+}
+.cre p{
+    color: blue;
+}
+
+.bottom
+{
+    margin-left: 520px;
+    display: flex;
+}
+.bottom p{
+    margin-left:60px ;
+}

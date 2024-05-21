@@ -1,0 +1,105 @@
+*
+{
+    border: 0;
+    padding: 0;
+    background-color:;
+}
+.main
+{
+    background-color:#f0f2f5;
+    height:100vh;
+    width:105%;
+}
+.left
+{
+    background-color:#f0f2f5;
+    width: 50%;
+    height: 100%;
+    float: left;
+    
+}
+.left h1
+{
+margin-left: 200px;
+margin-top: 194px;
+color: #316FF6;
+font-size: 80px;
+font-family: inherit;
+
+}
+.left p
+{
+margin-left: 200px;
+font-size: xx-large;
+font-family: inherit;
+}
+
+.right
+{
+    background-color:#f0f2f5;
+    width: 50%;
+    height:100%;
+    float: left;
+}
+.loginpage
+{
+ margin: 133px 60px 10px 60px ;   
+height: 363px;
+width:45%;
+background-color: white;
+border:2px solid rgb(156, 155, 155);
+border-radius: 15px;
+
+
+}
+.email
+{
+font-family:  Helvetica, Arial, sans-serif  ;
+
+}
+
+
+.email input
+{
+ height: 50px;
+ width: 305px;
+ margin:20px 0PX 0px 20px;
+ border: 2px solid rgb(156, 155, 155);
+ border-radius: 10px;
+ 
+}
+.submit input
+{
+ background-color:#316FF6;
+ font-size: large;
+ font-weight: 600;
+ color: white; 
+}
+
+.email p
+{
+    margin-left:120px;
+    color: #316FF6;
+    font-family: inherit;
+}
+.loginpage button
+{
+height: 50px;
+width:200px ;
+border-radius: 10px;
+background-color:#00A400;
+color: white;
+font-weight: 600;
+font-size: large;
+margin-left: 75px;
+margin-top: 20px;
+font-family: inherit;
+}
+.last
+{
+margin-left: 95px;
+}
+.deco
+{
+    text-decoration: none;
+}

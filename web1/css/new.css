@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.main {
+    background-image: url(https://miro.medium.com/v2/resize:fit:828/format:webp/1*6Jp3vJWe7VFlFHZ9WhSJng.jpeg);
+    height: 100vh;
+    width: 100%;
+}
+
+.top {
+    background-color:;
+    width: 100%;
+    height: 33%;
+    display: flex;
+
+}
+
+.one {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://m.media-amazon.com/images/I/91PF12JitiL.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 20px 10px 10px 80px;
+
+}
+
+.two {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://images.yourstory.com/cs/12/4010538016ef11ed98023d020ec781fa/Templates31-1665404716708.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px 10px 10px 35px;
+}
+
+.three {
+    height: 80%;
+    width: 20%;
+    background-color: rgb(234, 227, 227);
+    margin: 20px 10px 10px 35px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0gvwEHszPIFOkw5r-PQdABsrVV8jxjsk4g&s);
+}
+
+.four {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://i.guim.co.uk/img/media/ed5d1ad73153a0a51625eb88b9fac9bf42215932/0_0_2206_1607/master/2206.jpg?width=465&dpr=1&s=none);
+    background-size: cover;
+    margin: 20px 10px 10px 35px;
+
+}
+
+.middle {
+    background-color: ;
+    width: 100%;
+    height: 33%;
+    display: flex;
+
+}
+
+.five {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://m.media-amazon.com/images/I/5106oh9mVlL._AC_UF1000,1000_QL80_.jpg);
+    background-size: cover;
+    margin: 20px 10px 10px 80px;
+}
+
+.six {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://imgs4.freeup.app/400x400/743247c0b2bfc4ee175545a322692923.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 20px 10px 10px 35px;
+}
+
+.seven {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://i.insider.com/6390b350ad2cb500189eeb54?width=700);
+    background-size: cover;
+
+    margin: 20px 10px 10px 35px;
+}
+
+.eight {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/05/18102455/The-Best-Fiction-Books-1600x900.jpg);
+    background-size: cover;
+    margin: 20px 10px 10px 35px;
+}
+
+.bottom {
+    background-color: ;
+    width: 100%;
+    height: 35%;
+    display: flex;
+}
+
+.nine {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff5ba3321-c89a-4f7d-9fe9-6efcd6a6ce9e.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1);
+    background-size: cover;
+    margin: 20px 10px 10px 80px;
+
+}
+
+.ten {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://ik.imagekit.io/panmac/tr:f-auto,w-740,pr-true//bcd02f72-b50c-0179-8b4b-5e44f5340bd4/af8457a5-e876-47b7-8f2b-d09e7e633ede/Best-fantasy-books.jpg);
+    background-size: cover;
+
+
+    margin: 20px 10px 10px 35px;
+}
+
+.eleven {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBQRqRj7YbB8DUXJdkFn9Qr2--DyRV7ICGtGtmjHpsg&s);
+    background-size: contain;
+    margin: 20px 10px 10px 35px;
+}
+
+.twelve {
+    height: 80%;
+    width: 20%;
+    background-image: url(https://img.huffingtonpost.com/asset/5d02a5572100009518f11019.jpeg?ops=scalefit_720_noupscale);
+    background-size: cover;
+    margin: 20px 10px 10px 35px;
+}
+.inner
+{
+    background-color: black;
+
+}
+.inline
+{
+    height: 200px;
+    width: 300px;
+   background-color: brown;
+   position: absolute;
+   top: 0px;
+   left: 200px;
+    
+}

@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head
+{
+    background-color:white;
+    height: 60vh;
+    width: 25%;
+    border: 2px solid rgb(220, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+    position: static;
+}
+.instagram img
+{
+    height: 119px;
+    width: 180px;
+    margin: auto;
+     margin-left: 100px;
+}
+.login input
+{
+width: 90%;
+height: 50px;
+border-radius: 10px;
+ margin-left: 20px;
+ border: 2px solid rgb(220, 220, 220);
+}
+.login button
+{
+    background-color:#316FF6;
+    color: white;
+    width: 90%;
+    height:50px ;
+    border-radius: 10px;
+ margin-left: 20px;
+ font-size: large;
+ font-weight: 600;
+ border: 2px solid rgb(220, 220, 220);
+}.login p{
+    margin-left:180px;
+}
+
+.middle{
+    display: flex;
+    margin-left: 130px;
+}
+.middle img{
+    height: 20px;
+    width: 20px;
+    
+}
+.forget
+{
+    margin-left:145px ;
+    margin-top: 20px;
+}
+.second
+{
+    width: 25%;
+    height: 10vh;
+    background-color: white;
+    border: 2px solid rgb(220, 220, 220);
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.bottom
+{
+    display: flex;
+    margin-left: 105px;
+    margin-top: 25px;
+}
+
+.bottom h5
+{
+   color:#316FF6; 
+}
+.final
+{
+    margin: 10px 720px;
+}
+.icon
+{
+   
+    margin:20px 675px;
+    display: flex;
+}
+.icon img{
+    height: 35px;
+    width: 100px;
+}
+.last
+{
+    display: flex;
+    margin-left: 600px;
+    color: #316FF6;
+}
+.last p
+{
+margin: 5px;
+color: #04153b;
+}
+.last2
+{
+display: flex;
+margin-left:562px ;
+
+}
+.last2 p
+{
+margin: 5px;
+color: #06183f;
+}
+.face
+{
+    margin-left: 640px;
+    margin-top: 15px;
+    color:rgb(230, 197, 213);
+}

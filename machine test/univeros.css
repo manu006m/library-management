@@ -1,0 +1,98 @@
+*{
+    border:0;
+    margin: 0;
+}
+.head
+{
+    height: 80px;
+}
+
+
+.first{
+    height: 50px;
+    width: 50px ;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.second
+{
+    display: flex;
+}
+.second h5
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.third
+{
+    height: 65vh;
+    width:100%;
+    
+    background-image: url(https://i.pinimg.com/736x/9d/c7/42/9dc7427ab4b923a00c7236cb89901b32.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0px;
+}
+.four 
+{
+    height: 100%;
+    width: 50%;
+  
+ 
+}
+.four h6{
+ color: white;
+ padding-top: 90px;
+ padding-left: 250px;
+}
+.four h2{
+    color: white;
+   
+    padding-left:250px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+.four p
+{
+    color: white;
+    margin-left: 250px;
+    
+}
+button
+{
+    background-color: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 180px;
+    margin-left: 250px;
+    color: white;
+    font-size:small;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.footer
+{
+    height:22vh;
+    width: 100%;
+    background-color:beige;
+}
+.five{
+    height: 50px;
+    width: 50px;
+    margin: 35px 0px 0px 80px;
+}
+.six
+{
+    display: flex;
+    
+}
+.six h5{
+    margin-top:35px ;
+    margin-left: 10px;
+    color: rgb(130, 3, 3);
+    font-weight: 700;
+}

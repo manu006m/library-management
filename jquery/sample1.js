@@ -1,0 +1,16 @@
+$(document).ready(function()
+{
+    $("#btn").click(function()
+{
+    $("#box").toggle(2000)
+})
+$("#form").validate(
+    {
+        rules:{
+            name:{
+                required:true
+            }
+        }
+        }
+})
+)
